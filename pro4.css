@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding: 0;  
+	background-color: rgba(0,0,0,0.5);
+	background:url(file:///D:/programfiles/hdf%20modules/html/pic/education/vlcsnap-2018-09-21-00h45m44s101.png); 
+	font-family: "Quicksand";  
+}
+.form{
+	position: absolute;
+	width: 400px;
+	height: 500px;
+	top: 10%;
+	left: 20%;
+	box-sizing: content-box;
+	background: rgba(0,0,0,0.5); 
+	padding: 40px;
+
+}
+
+h2{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: tomato;
+}
+.form p{
+	margin-top: 20px;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: orange;
+}
+
+.form input[type=text]
+{
+	border: none;
+	margin-top: 20px;
+	border-bottom: 1px solid #ffffff;
+	background-color: transparent;
+	outline: none;
+	color: cyan;
+	display: 16px;
+
+}
+
+
+textarea {
+  background: 
+  border: 1px solid orange;
+  margin-top: 30px;
+  background: rgba(255,255,255,0.5);
+  text-decoration-color: white;
+  color: cyan;
+
+}
+
+.form input[type=submit]{
+	border: none;
+	height: 40px;
+	outline: none;
+	color: green;
+	font-size: 15px;
+	margin-top: 20px;
+	background-color: rgba(255,255,255,0.5);
+	cursor: pointer;
+	
+
+}
+.form input[type=submit]:hover{
+	background-color: tomato; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
